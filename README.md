@@ -1,4 +1,3 @@
-````markdown
 # All Three Projects Complete!
 
 I have successfully developed three comprehensive end-to-end projects that demonstrate my expertise across multiple technology stacks.
