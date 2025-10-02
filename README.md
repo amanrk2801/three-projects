@@ -101,5 +101,3 @@ You now have three solid portfolio projects that show you can work with:
 * **C# (.NET Core)**
 
 Each project is production-ready with proper structure, documentation, and can be deployed to cloud platforms. Perfect for showcasing your full-stack development skills! 🎯
-
-```
